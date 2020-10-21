@@ -1,3 +1,5 @@
+
+
 body { 
 	color:rgb(221, 190, 169);
 	font-size: 24px;
@@ -33,9 +35,6 @@ p {
 	border-radius: 50% ;}
 .shadowed {
 	box-shadow: 5px 5px 3px black;}
-#leader{
-	border: 5px solid red;
-}
 
  .card-white {
   background-color: rgb(240, 239, 235);
